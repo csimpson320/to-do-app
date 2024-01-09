@@ -1,4 +1,3 @@
-clean
+cleans
 eat
-drive
 fix
